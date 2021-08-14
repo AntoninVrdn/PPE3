@@ -1,0 +1,17 @@
+#divMusic{
+    margin-left: 200px;
+    width: 60%;
+}
+
+.container{
+    display: flex;
+}
+
+#tableau{
+    width: 800px;
+}
+
+#container2 {
+	display: flex;
+	flex-direction: column;
+}

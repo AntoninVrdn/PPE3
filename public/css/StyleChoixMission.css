@@ -1,0 +1,23 @@
+.container{
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 3px;
+    border: solid 3px black;
+    margin-top: 10%;
+}
+
+tr{
+    border: 2px solid black;
+}
+
+td{
+    padding-top: 10px;
+    margin: auto;
+    width: 25%;
+    padding: 5px;
+}
+
+.titre{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
